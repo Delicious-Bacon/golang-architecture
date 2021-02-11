@@ -3,8 +3,8 @@ package main
 import (
 	"fmt"
 
-	architecture "github.com/GoesToEleven/golang-architecture"
-	"github.com/GoesToEleven/golang-architecture/storage/mongo"
+	"golang-architecture"
+	"golang-architecture/storage/mongo"
 )
 
 func main() {

@@ -1,3 +1,3 @@
-module github.com/GoesToEleven/golang-architecture
+module golang-architecture
 
-go 1.13
+go 1.15

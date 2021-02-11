@@ -1,6 +1,6 @@
 package harddrive
 
-import architecture "github.com/GoesToEleven/golang-architecture"
+import "golang-architecture"
 
 type Db map[int]architecture.User
 
